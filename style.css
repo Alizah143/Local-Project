@@ -1,0 +1,13 @@
+*{
+
+}
+body{
+   background-color: #FFC0D4;
+}
+#lisa{
+    float: right;
+}
+#liz{
+    float: left;
+    margin-top: 23rem;
+}
